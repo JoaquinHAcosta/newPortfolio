@@ -1,4 +1,5 @@
 import './App.css'
+import Hamburger from './components/Hamburger'
 import Navbar from './components/Navbar'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar/>
-      <h1>New Portfolio</h1>
+      <Hamburger/>
     </>
   )
 }
