@@ -1,5 +1,5 @@
 import profilePic from '../assets/profile-pic.png'
-import profileCV from '../assets/resume-example.pdf'
+import profileCV from '../assets/resume-jha.pdf'
 import linkedinIcon from '../assets/linkedin.png'
 import gitHubIcon from '../assets/github.png'
 

@@ -1,4 +1,4 @@
-import aboutPic from '../assets/about-pic.png'
+import aboutPic from '../assets/about-pic.jpg'
 import experienceIcon from '../assets/experience.png'
 import arrowIcon from '../assets/arrow.png'
 
