@@ -29,7 +29,7 @@ const About = () => {
                 </div>
             </div>
         </div>
-        <img src={arrowIcon} alt="Arrow icon" className='icon arrow' onClick={location.href='./#experience'}/>
+        <img src={arrowIcon} alt="Arrow icon" className='icon arrow' onClick={() => location.href='./#experience'}/>
     </section>
   )
 }
