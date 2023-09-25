@@ -9,7 +9,7 @@ const Experience = () => {
         <h1 className='title'>Experience</h1>
         <div className='experience-details-container'>
             <div className='about-containers'>
-                <div className='details-containers'>
+                <div className='details-container'>
                     <h2 className='experience-sub-title'>Frontend Development</h2>
                     <div className='article-container'>
                         {techsFront.map((tech, index) => {
@@ -26,7 +26,7 @@ const Experience = () => {
                         })}
                     </div>
                 </div>
-                <div className='details-containers'>
+                <div className='details-container'>
                     <h2 className='experience-sub-title'>Backend Development</h2>
                     <div className='article-container'>
                         {techsBack.map((tech, index) => {
