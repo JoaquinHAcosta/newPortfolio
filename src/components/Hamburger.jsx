@@ -14,12 +14,15 @@ const Hamburger = () => {
         <nav id='hamburger-nav'>
             <div className='logo'>Joaquin Acosta</div>
             <div className='hamburger-menu'>
-                <div className='hamburger-icon' onClick={toggleMenu}>
+                <div className={`hamburger-icon ${toggle === true ? 'open' : ''}`} onClick={toggleMenu}>
                     <span></span>
                     <span></span>
                     <span></span>
                 </div>
-                <div className='menu-links'>
+                <div className={`menu-links ${toggle === true ? 'open' : ''}`}>
+                    <li>
+                        <a href="#about" onClick={toggleMenu}>About</a>
+                    </li>
                     <li>
                         <a href="#experience" onClick={toggleMenu}>Experience</a>
                     </li>
