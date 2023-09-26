@@ -12,6 +12,14 @@ export const techsFront = [
         skillLvl: 'Intermediate'
     },
     {
+        name: 'Bootstrap',
+        skillLvl: 'Intermediate'
+    },
+    {
+        name: 'Tailwind',
+        skillLvl: 'Intermediate'
+    },
+    {
         name: 'JavaScript',
         skillLvl: 'Intermediate'
     },
@@ -20,7 +28,11 @@ export const techsFront = [
         skillLvl: 'Basic'
     },
     {
-        name: 'Material UI',
+        name: 'React',
+        skillLvl: 'Experienced'
+    },
+    {
+        name: 'Next js',
         skillLvl: 'Intermediate'
     }
 ]
