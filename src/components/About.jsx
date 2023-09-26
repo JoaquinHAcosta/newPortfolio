@@ -25,7 +25,19 @@ const About = () => {
                     </div>
                 </div>
                 <div className='text-container'>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ipsam cumque vero laborum aliquid dicta nihil! Magni, explicabo perspiciatis odit omnis cupiditate neque minima amet fugiat. Tempora, mollitia temporibus? Magni architecto delectus fugit saepe officia eligendi velit libero eius! Veritatis.</p>
+                    <p>
+                    👨‍🎓 Young student passionate about Full Stack Web Programming, driven by an insatiable thirst for knowledge and challenges. My versatility, commitment and constant search for quality define my approach to work.
+                    <br /><br />
+                    Strengths that I consider notable in me:
+                    <br />
+                    📚 Hunger for knowledge: I always seek to learn and improve, staying updated on technologies and trends.
+                    <br />
+                    🤝 Team adaptability: My versatility allows me to collaborate effectively with different personalities and roles.
+                    <br />
+                    💪 Determination and ambition: My commitment and loyalty to the goals I set drive my potential.
+                    <br /><br />
+                    My passion and dedication, backed by my focus on continuous learning and constant improvement, set me apart as a developer looking to make a difference. 🚀
+                    </p>
                 </div>
             </div>
         </div>

@@ -1,24 +1,24 @@
-import projectOne from '../assets/project-1.png'
-import projectTwo from '../assets/project-2.png'
-import projectThree from '../assets/project-3.png'
+import projectOne from '../assets/project-food.png'
+import projectTwo from '../assets/project-lodge.png'
+import projectThree from '../assets/project-threads.png'
 
 export const projects = [
     {
-        name: 'Project 1',
+        name: 'Fodie App',
         image: projectOne,
-        linkGithub: 'https://github.com/',
-        linkDemo: 'https://github.com/'
+        linkGithub: 'https://github.com/JoaquinHAcosta/Henry_PI-Food',
+        linkDemo: 'https://github.com/JoaquinHAcosta/Henry_PI-Food'
     },
     {
-        name: 'Project 2',
+        name: 'DreamLodge App',
         image: projectTwo,
-        linkGithub: 'https://github.com/',
-        linkDemo: 'https://github.com/'
+        linkGithub: 'https://github.com/GmedicJaimes/DreamLodge-Project',
+        linkDemo: 'https://dreamlodgeprueba.web.app'
     },
     {
-        name: 'Project 3',
+        name: 'Threads clone',
         image: projectThree,
-        linkGithub: 'https://github.com/',
-        linkDemo: 'https://github.com/'
+        linkGithub: 'https://github.com/JoaquinHAcosta/threadsClone',
+        linkDemo: 'https://threads-clone-87ym.vercel.app'
     }
 ]
