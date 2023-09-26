@@ -554,4 +554,13 @@ footer p {
   .text-container {
     text-align: justify;
   }
+
+  .contact-info-container .icon {
+    margin: 0.3em;
+    height: 1.5rem;
+  }
+
+  .article-container {
+    gap: 1.5rem;
+  }
 }

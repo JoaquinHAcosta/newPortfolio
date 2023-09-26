@@ -1,10 +1,6 @@
 export const techsFront = [
     {
-        name: 'HTML',
-        skillLvl: 'Experienced'
-    },
-    {
-        name: 'CSS',
+        name: 'HTML & CSS',
         skillLvl: 'Experienced'
     },
     {
@@ -12,20 +8,12 @@ export const techsFront = [
         skillLvl: 'Intermediate'
     },
     {
-        name: 'Bootstrap',
-        skillLvl: 'Intermediate'
-    },
-    {
         name: 'Tailwind',
         skillLvl: 'Intermediate'
     },
     {
-        name: 'JavaScript',
+        name: 'JavaScript & TypeScript',
         skillLvl: 'Intermediate'
-    },
-    {
-        name: 'TypeScript',
-        skillLvl: 'Basic'
     },
     {
         name: 'React',

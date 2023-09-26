@@ -27,7 +27,7 @@ const About = () => {
                 <div className='text-container'>
                     <p>
                     👨‍🎓 Young student passionate about Full Stack Web Programming, driven by an insatiable thirst for knowledge and challenges. My versatility, commitment and constant search for quality define my approach to work.
-                    <br /><br />
+                    <br />
                     Strengths that I consider notable in me:
                     <br />
                     📚 Hunger for knowledge: I always seek to learn and improve, staying updated on technologies and trends.
@@ -35,8 +35,6 @@ const About = () => {
                     🤝 Team adaptability: My versatility allows me to collaborate effectively with different personalities and roles.
                     <br />
                     💪 Determination and ambition: My commitment and loyalty to the goals I set drive my potential.
-                    <br /><br />
-                    My passion and dedication, backed by my focus on continuous learning and constant improvement, set me apart as a developer looking to make a difference. 🚀
                     </p>
                 </div>
             </div>
